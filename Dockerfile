@@ -1,2 +1,2 @@
-FROM quay.io/coreos/flannel-cni:v0.3.0
+FROM quay.io/coreos/flannel-cni:v0.2.0
 MAINTAINER wanglg007 <wanglg007@gmail.com >
